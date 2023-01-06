@@ -4,6 +4,7 @@ specifiers:
   '@types/node': ^18.11.18
   '@typescript-eslint/eslint-plugin': ^5.46.1
   '@typescript-eslint/parser': ^5.46.1
+  beme-news1-core: link:core:@chlbri/beme-news1-core
   eslint: ^8.29.0
   husky: ^8.0.2
   onchange: ^7.1.0
@@ -28,6 +29,7 @@ devDependencies:
   '@types/node': 18.11.18
   '@typescript-eslint/eslint-plugin': 5.47.0_ncmi6noazr3nzas7jxykisekym
   '@typescript-eslint/parser': 5.47.0_lzzuuodtsqwxnvqeq4g4likcqa
+  beme-news1-core: link:core:@chlbri/beme-news1-core
   eslint: 8.30.0
   husky: 8.0.2
   onchange: 7.1.0
