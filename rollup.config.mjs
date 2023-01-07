@@ -39,20 +39,12 @@ export default {
       file: 'lib/index.d.ts',
     },
     {
-      format: 'cjs',
-      sourcemap: true,
-      dir: `lib`,
-      preserveModulesRoot: 'src',
-      preserveModules: true,
-      entryFileNames: '[name].js',
-    },
-    {
       format: 'es',
       sourcemap: true,
       dir: `lib`,
       preserveModulesRoot: 'src',
       preserveModules: true,
-      entryFileNames: '[name].mjs',
+      entryFileNames: '[name].js',
     },
   ],
 };

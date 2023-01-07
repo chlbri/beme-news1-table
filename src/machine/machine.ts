@@ -652,6 +652,4 @@ export const machine = createMachine(
       THROTTLE_TIME: NUMBERS.DEFAULT_THROTLLE_TIME,
     },
   },
-).withConfig({
-  actions: {},
-});
+);
